@@ -4,4 +4,7 @@
 
 Tutorial available in: https://thinkster.io/mean-stack-tutorial
 
+###### Developer
+> Danilo Braga
 
+> https://br.linkedin.com/in/bragadanilo
